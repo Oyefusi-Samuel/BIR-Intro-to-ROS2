@@ -60,6 +60,9 @@ This section provides a comprehensive guide to set up your system for the worksh
 
 ---
 
+![Uploading image.png…]()
+
+
 ## 🧰 Workshop Package: [MOBO_BOT](https://github.com/robocre8/mobo_bot)
 
 Give the package a ⭐ and learn more about ROS and robotics.
