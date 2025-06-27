@@ -6,32 +6,22 @@ Introduction to ROS2 Workshop materials and setup guide for the Black in Robotic
 
 # PC-SETUP
 
-This repository provides a comprehensive guide to set up your system for the workshop. It includes instructions for system partitioning, software installations, ROS2 setup, and library configurations.
+This repository provides a comprehensive guide to set up your system for the workshop. It includes instructions for system partitioning, software installation, ROS 2 setup, and configuration of the Workshop Package.
 
 ---
 
 ## **1. System Setup and Partitioning**
 
-### Steps: (Dual-Boot) Highly recommended 
-1. **Watch Tutorial:** Follow this [YouTube tutorial](https://youtu.be/Z-Hv9hOaKso?si=tka_nrAbiIuYnxvy) for partitioning and installing Ubuntu.
-2. **Partitioning:** Configure your laptop for dual-booting with Ubuntu 22.04.
-3. **Ubuntu Installation Guide:** Use the [Ubuntu 22.04 Installation Guide](https://ubuntu.com/tutorials/install-ubuntu-desktop#1-overview) for detailed steps.
+### Steps: Option 1 (Dual-Boot) Highly recommended 
+. **Watch Tutorial:** Follow this [YouTube tutorial](https://youtu.be/Z-Hv9hOaKso?si=tka_nrAbiIuYnxvy) for partitioning and installing Ubuntu.
+. **Partitioning:** Configure your laptop for dual-booting with Ubuntu 22.04.
+. **Ubuntu Installation Guide:** Use the [Ubuntu 22.04 Installation Guide](https://ubuntu.com/tutorials/install-ubuntu-desktop#1-overview) for detailed steps.
 
-###  Option 2: Use a Virtual Machine to Install Ubuntu 22.04
-https://youtu.be/rJ9ysibH768
-
-
-## **2. Software Setup**
-
-### Steps:
-1. **Install Ubuntu 22.04**
-   - Ensure Ubuntu 22.04 is installed successfully on your system.
-
-2. **Install Essential Developer Tools:**
-   ```bash
-   sudo apt update
-   sudo apt install build-essential curl git
-   ```
+###  Option 2: Use a Virtual Machine to Install Ubuntu 22.04 
+. Download and install VirtualBox from [here](https://www.virtualbox.org/wiki/Downloads).
+. Go to [Ubuntu Downloads](https://ubuntu.com/download/desktop) and select Ubuntu 22.04 LTS.
+. You can watch this [video](https://youtu.be/jm8WMgwu10s ) to understand the installation steps faster 
+             
 
 ---
 
