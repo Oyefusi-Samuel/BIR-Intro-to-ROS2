@@ -60,7 +60,9 @@ This section provides a comprehensive guide to set up your system for the worksh
 
 ---
 
-![Uploading image.png…]()
+
+![Picture1](https://github.com/user-attachments/assets/ebf2be9c-0b15-4f6d-8895-112a5b4ae138)
+
 
 
 ## 🧰 Workshop Package: [MOBO_BOT](https://github.com/robocre8/mobo_bot)
