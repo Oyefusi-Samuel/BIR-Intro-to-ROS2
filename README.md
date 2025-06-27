@@ -32,6 +32,7 @@ This section provides a comprehensive guide to set up your system for the worksh
 - **Visual Studio Code:** [Install VSCode](https://code.visualstudio.com/)
 - **Docker Desktop:** [Install Docker](https://www.docker.com/products/docker-desktop/)
 - **Follow this repo:** [ROS2env](https://github.com/SakshayMahna/ros2env)
+- **Watch this video**  [ROS2env](https://youtu.be/mt8DTLkWNyA)
 - In VSCode: Click `Reopen in Container`
 
 > The `.devcontainer` folder is pre-configured with ROS2 Humble and tools.
@@ -65,7 +66,7 @@ This section provides a comprehensive guide to set up your system for the worksh
 
 
 
-## 🧰 Workshop Package: [MOBO_BOT](https://github.com/robocre8/mobo_bot)
+## 🧰 Workshop Package: [Mobo_BOT](https://github.com/robocre8/mobo_bot)
 
 Give the package a ⭐ and learn more about ROS and robotics by [Robocre8](https://github.com/robocre8).
 
