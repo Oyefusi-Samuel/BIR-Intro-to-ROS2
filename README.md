@@ -27,7 +27,7 @@ This section provides a comprehensive guide to set up your system for the worksh
 - **Ubuntu ISO:** [Ubuntu 22.04 LTS](https://ubuntu.com/download/desktop)
 - **VM Tutorial:** [Video Guide](https://youtu.be/jm8WMgwu10s)
 
-#### 🔸 Option 3: DevContainer with VSCode + Docker (Beginner Friendly)
+#### 🔸 Option 3: DevContainer with VSCode + Docker (Beginner Friendly)- Extremely Fast ✅✅
 
 - **Visual Studio Code:** [Install VSCode](https://code.visualstudio.com/)
 - **Docker Desktop:** [Install Docker](https://www.docker.com/products/docker-desktop/)
