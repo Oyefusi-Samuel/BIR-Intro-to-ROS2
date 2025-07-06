@@ -56,7 +56,7 @@ This section provides a comprehensive guide to set up your system for the worksh
 - **Post-Installation Check:**
 
   ```bash
-  ros2 --version
+  echo $ROS_DISTRO
   ```
 
 ---
