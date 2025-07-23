@@ -3,7 +3,7 @@
 
 # BIR-Intro-to-ROS2
 
-Introduction to ROS2 Workshop materials and setup guide for the Black in Robotics Introduction to ROS2 Summer 2025 Workshop.
+Introduction to[ ROS2 Workshop materials ](https://docs.google.com/presentation/d/1z-tRB5UuYm7LMNwvxbqFoDH6gTB8bFon/edit?usp=sharing&ouid=106303859865600119895&rtpof=true&sd=true)and setup guide for the Black in Robotics Introduction to[ ROS2 Summer 2025 Workshop](https://youtu.be/I1aLEPljNz8?si=VffoXOsC3GNALigZ).
 
 ---
 
